@@ -1,0 +1,26 @@
+_prefs: 
+  mapid: ''
+  saveCenter: false
+_properties: {}
+attribution: ''
+bounds: 
+  - -180
+  - -85.0511
+  - 180
+  - 85.0511
+center: 
+  - -122.3922
+  - 37.7721
+  - 12
+description: ''
+format: "png8:m=h"
+interactivity_layer: ''
+layers: null
+maxzoom: 22
+minzoom: 0
+name: Pokemon Gold/Silver
+source: "mapbox:///mapbox.mapbox-streets-v5,rrice.sf-buildings"
+styles: 
+  - style.mss
+  - labels.mss
+template: ''
